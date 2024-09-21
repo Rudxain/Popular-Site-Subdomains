@@ -28,6 +28,7 @@ nl.youtube.com
 nz.youtube.com
 p.youtube.com
 s.youtube.com
+studio.youtube.com
 tv.youtube.com
 tw.youtube.com
 uk.youtube.com
